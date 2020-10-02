@@ -1,13 +1,19 @@
-# Ryvyn Young
+# Projects and Presentations
+GitHub [here](https://github.com/RyvynYoung)
+Tableau [here](https://public.tableau.com/profile/ryvyn.young#!/)
+LinkedIn [here](https://www.linkedin.com/in/ryvyn-young-69783776/)
 
-Welcome to my page. 
-This page contains links to my projects and courses completed along my path to become a Data Scientist.
+#### Telco Churn Classification Project
+Investigate Telco dataset for drivers of customer churn   
+Using machine learning build a model that predicts customer churn
+5 min presentation walk through
+###### My model increased customer churn prediction accuracy from 73% baseline to 87% using a Random Forest classification model
+[Project_Repo](https://github.com/RyvynYoung/telco_classification_project)
+[Post_Project_Summary](https://ryvynyoung.github.io/Telco_Churn_Classification_Project_Summary.pdf)
 
-
-My GitHub repositories are available [here](https://github.com/RyvynYoung)
-
-My Tableau gallery is available [here](https://public.tableau.com/profile/ryvyn.young#!/)
-
+#### Telco Churn Storytelling Project
+[Tableau_Project](https://public.tableau.com/profile/ryvyn.young#!/vizhome/Telco_15985614575640/TelcoChurn)
+[Post_Project_Summary](https://ryvynyoung.github.io/Telco_Churn_Storytelling%20Project_Summary.pdf)
 
 ## Side Projects
 ### Coding Projects
@@ -15,12 +21,15 @@ Simple Python games - [Project_Summary](https://ryvynyoung.github.io/Simple_Game
 
 Alien Invasion - [Project_Summary](https://ryvynyoung.github.io/Alien_Invasion_Project_Summary.pdf), [GitHub_Repository](https://github.com/RyvynYoung/alien_invasion)
 
-### Hobbies
-[Creatures](https://ryvynyoung.github.io/Crocheted%20Creatures.jpg)
-
-[Hats](https://ryvynyoung.github.io/Knit%20hats1.jpg)
-
+******
 ### Reading List
 "Python Crash Course" Eric Matthes
 
 "How Charts Lie" Alberto Cairo
+
+### Hobbies
+Crochet and Knitting projects completed during Bootcamp
+[Creatures](https://ryvynyoung.github.io/Crocheted%20Creatures.jpg)
+
+[Hats](https://ryvynyoung.github.io/Knit%20hats1.jpg)
+
