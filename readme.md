@@ -18,6 +18,7 @@ Using machine learning build a model that predicts customer churn
 # Side Projects
 ## Coding Projects
 Market Basket Analysis - [Jupyter_Notebook](https://github.com/RyvynYoung/Market_Basket/blob/main/Market_Basket.ipynb)
+
 Simple Python games - [Project_Summary](https://ryvynyoung.github.io/Simple_Games_Project_Summary.pdf),   [GitHub_Repo](https://github.com/RyvynYoung/simple_games)
 
 Alien Invasion - [Project_Summary](https://ryvynyoung.github.io/Alien_Invasion_Project_Summary.pdf),   [GitHub_Repo](https://github.com/RyvynYoung/alien_invasion)
@@ -30,6 +31,7 @@ Alien Invasion - [Project_Summary](https://ryvynyoung.github.io/Alien_Invasion_P
 
 ### Hobbies
 Crochet and Knitting projects completed during Bootcamp
+
 [Creatures](https://ryvynyoung.github.io/Crocheted%20Creatures.jpg)
 
 [Hats](https://ryvynyoung.github.io/Knit%20hats1.jpg)
