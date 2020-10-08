@@ -3,6 +3,16 @@ Tableau [here](https://public.tableau.com/profile/ryvyn.young#!/)
 LinkedIn [here](https://www.linkedin.com/in/ryvyn-young-69783776/)   
 GitHub [here](https://github.com/RyvynYoung)   
 
+#### Zillow Regression Project
+Use Zillow dataset   
+Using machine learning build a model that predicts property tax value
+5 min presentation
+###### Our best model was a 31% improvement over baseline using a Polynomial Regression algorithm
+[Presentation](https://docs.google.com/presentation/d/1O1oWwpjngXqnWylhtI1CFIcE8Nl13MardtJ5TaAJ7oo/edit?usp=sharing)
+[Project_Repo](https://github.com/CY-Data-Services/zillow_regression_project)   
+[Post_Project_Summary](https://github.com/RyvynYoung/RyvynYoung.github.io/blob/master/%20Zillow%20Regression%20Project%20Summary.pdf)
+
+
 #### Telco Churn Classification Project
 Investigate Telco dataset for drivers of customer churn   
 Using machine learning build a model that predicts customer churn
