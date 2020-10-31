@@ -36,9 +36,13 @@ Using machine learning build a model that predicts customer churn
 [Post_Project_Summary](https://ryvynyoung.github.io/Telco_Churn_Storytelling%20Project_Summary.pdf)
 
 # Side Projects
-## Coding Projects
+## Data Analysis Projects
+Fitbit Time Series Analysis - [Jupyter_Notebook](https://github.com/RyvynYoung/fitbit_time_series_project/blob/main/Fitbit.ipynb)
+[Post_Project_Summary](https://ryvynyoung.github.io/Fitbit%20Time%20Series%20Project%20Summary.pdf)
+
 Market Basket Analysis - [Jupyter_Notebook](https://github.com/RyvynYoung/Market_Basket/blob/main/Market_Basket.ipynb)
 
+## Coding Projects
 Simple Python games - [Project_Summary](https://ryvynyoung.github.io/Simple_Games_Project_Summary.pdf),   [GitHub_Repo](https://github.com/RyvynYoung/simple_games)
 
 Alien Invasion - [Project_Summary](https://ryvynyoung.github.io/Alien_Invasion_Project_Summary.pdf),   [GitHub_Repo](https://github.com/RyvynYoung/alien_invasion)
