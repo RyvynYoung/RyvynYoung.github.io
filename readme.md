@@ -1,7 +1,5 @@
 # Projects and Presentations
-GitHub [here](https://github.com/RyvynYoung) 
-Tableau [here](https://public.tableau.com/profile/ryvyn.young#!/)   
-LinkedIn [here](https://www.linkedin.com/in/ryvyn-young-69783776/)   
+[GitHub](https://github.com/RyvynYoung) | [Tableau](https://public.tableau.com/profile/ryvyn.young#!/) | [LinkedIn](https://www.linkedin.com/in/ryvyn-young-69783776/)   
   
   
 #### Zillow Clustering Project
@@ -9,7 +7,7 @@ Use Zillow dataset
 Using machine learning clustering to find groups within the data and build a model that predicts logerror
 5 min notebook walk through
 ###### Identified 4 cluster groups within the data using KMeans algorithm. My best model unfortunately performed 3.6% under baseline using a Linear Regression algorithm.
-[[Project_Repo](https://github.com/RyvynYoung/Zillow_Clustering_Project)   
+[Project_Repo](https://github.com/RyvynYoung/Zillow_Clustering_Project)   
 [Post_Project_Summary](https://ryvynyoung.github.io//Zillow_Clustering_Project%20Summary.pdf)
 
 
