@@ -1,5 +1,5 @@
 # Projects and Presentations
-[GitHub](https://github.com/RyvynYoung) | [Tableau](https://public.tableau.com/profile/ryvyn.young#!/) | [LinkedIn](https://www.linkedin.com/in/ryvyn-young-69783776/)   
+[GitHub](https://github.com/RyvynYoung) | [Tableau](https://public.tableau.com/profile/ryvyn.young#!/) | [LinkedIn](https://www.linkedin.com/in/ryvyn-young-69783776/) | [Resume](https://ryvynyoung.github.io/RyvynYoung.pdf) 
   
   
 #### Zillow Clustering Project
