@@ -54,7 +54,7 @@ Alien Invasion - [Project_Summary](https://ryvynyoung.github.io/Alien_Invasion_P
 ### Hobbies
 Crochet and Knitting projects completed during Bootcamp
 
-[Creatures](https://ryvynyoung.github.io/Crocheted%20Creatures.jpg)
-[Scarves](https://ryvynyoung.github.io/scarves.jpg)
-[Hats](https://ryvynyoung.github.io/Knit%20hats1.jpg)
-
+[Creatures](https://ryvynyoung.github.io/Crocheted%20Creatures.jpg) | 
+[Scarves](https://ryvynyoung.github.io/scarves.jpg) | 
+[Hats](https://ryvynyoung.github.io/Knit%20hats1.jpg) | 
+[More_Hats](https://ryvynyoung.github.io/more_hats.jpg) | 
