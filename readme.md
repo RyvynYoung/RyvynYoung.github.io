@@ -1,14 +1,19 @@
 # Projects and Presentations
 [GitHub](https://github.com/RyvynYoung) | [Tableau](https://public.tableau.com/profile/ryvyn.young#!/) | [LinkedIn](https://www.linkedin.com/in/ryvyn-young-69783776/) | [Resume](https://ryvynyoung.github.io/RyvynYoung.pdf) 
   
-  
+#### Natural Language Processing (NLP) Project  
+Scrape 1K GitHub repository urls related to "environmental" to create a dataset for analysis. Use NLP techniques to explore the data and build a model that predicts the programming language of the repository based on the text in the README.
+######  The best performing model was a Logistic Regression using TF-IDF, final result was an average of 47% accuracy on unseen data.
+[Project_Repo](https://github.com/Data-Investigators/nlp_environmental_project)   
+[Post_Project_Summary](https://ryvynyoung.github.io/Natural_Language_Processing_Project_Summary.pdf)
+
 #### Zillow Clustering Project
 Use Zillow dataset   
 Using machine learning clustering to find groups within the data and build a model that predicts logerror
 5 min notebook walk through
 ###### Identified 4 cluster groups within the data using KMeans algorithm. My best model unfortunately performed 3.6% under baseline using a Linear Regression algorithm.
 [Project_Repo](https://github.com/RyvynYoung/Zillow_Clustering_Project)   
-[Post_Project_Summary](https://ryvynyoung.github.io//Zillow_Clustering_Project%20Summary.pdf)
+[Post_Project_Summary](https://ryvynyoung.github.io/Zillow_Clustering_Project%20Summary.pdf)
 
 
 #### Zillow Regression Project
@@ -36,7 +41,7 @@ Using machine learning build a model that predicts customer churn
 # Side Projects
 ## Data Analysis Projects
 Fitbit Time Series Analysis - [Jupyter_Notebook](https://github.com/RyvynYoung/fitbit_time_series_project/blob/main/Fitbit.ipynb)
-[Post_Project_Summary](https://ryvynyoung.github.io/Fitbit%20Time%20Series%20Project%20Summary.pdf)
+[Post_Project_Summary](https://ryvynyoung.github.io/Fitbit_TS_ProjectSummary.pdf)
 
 Market Basket Analysis - [Jupyter_Notebook](https://github.com/RyvynYoung/Market_Basket/blob/main/Market_Basket.ipynb)
 
