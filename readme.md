@@ -40,8 +40,11 @@
 [Tableau_Project](https://public.tableau.com/profile/ryvyn.young#!/vizhome/Telco_15985614575640/TelcoChurn) | 
 [Post_Project_Summary](https://ryvynyoung.github.io/Telco_Churn_Storytelling%20Project_Summary.pdf)
 
-# Side Projects
-## Data Analysis Projects
+## Additional Data Analysis Projects
+#### NLP Harry Potter
+[Jupyter_Notebook](https://github.com/RyvynYoung/nlp_harry_potter) | 
+[Post_Project_Summary](https://ryvynyoung.github.io/NLP_HP_Summary.pdf)
+
 #### Fitbit Time Series Analysis       
 [Jupyter_Notebook](https://github.com/RyvynYoung/fitbit_time_series_project/blob/main/Fitbit.ipynb) | 
 [Post_Project_Summary](https://ryvynyoung.github.io/Fitbit_TS_ProjectSummary.pdf)
@@ -50,7 +53,7 @@
 [Jupyter_Notebook](https://github.com/RyvynYoung/Market_Basket/blob/main/Market_Basket.ipynb)
 
 
-## Coding Projects
+## Python Coding Projects
 #### Simple Python games     
 [Project_Summary](https://ryvynyoung.github.io/Simple_Games_Project_Summary.pdf) | 
 [GitHub_Repo](https://github.com/RyvynYoung/simple_games)
