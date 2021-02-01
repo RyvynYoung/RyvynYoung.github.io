@@ -3,13 +3,20 @@
 [Tableau](https://public.tableau.com/profile/ryvyn.young#!/) | 
 [LinkedIn](https://www.linkedin.com/in/ryvyn-young-69783776/) | 
 [Resume](https://ryvynyoung.github.io/RyvynYoung.pdf) 
-  
+
+#### Supply Chain - Units per Hour  
+“We manage what we measure, but frequently we measure what is easy" inspired by this quote I found a Kaggle dataset with units and pick time to evaluate.    
+- Exploring the data I found that there was minimal variance in many features I expected to be predictive. 
+- I found using a polynomial features model with order complexity was 65% more accurate in predicting the time needed to pick an order.     
+[Project_Repo](https://github.com/RyvynYoung/Supply_Chain) | 
+[Post_Project_Summary](https://ryvynyoung.github.io/SupplyChain_UPH_PS.pdf)     
+
 #### Natural Language Processing (NLP) Project  
 - Scrape 1K GitHub repository urls related to "environmental" to create a dataset for analysis. 
 - Use NLP techniques to explore the data and build a model that predicts the programming language of the repository based on the text in the README.     
 - Best performing model was a Logistic Regression using TF-IDF, final result was an average of 47% accuracy on unseen data.      
 [Project_Repo](https://github.com/Data-Investigators/nlp_environmental_project) | 
-[Post_Project_Summary](https://ryvynyoung.github.io/Natural_Language_Processing_Project_Summary.pdf)
+[Post_Project_Summary](https://ryvynyoung.github.io/Natural_Language_Processing_Project_Summary.pdf)     
 
 #### Zillow Clustering Project
 - Use Zillow dataset from Codeup cloud database  
